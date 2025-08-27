@@ -34,7 +34,7 @@ Passionate about **Flutter**, **clean code**, and creating **beautiful user expe
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmaher-dev&layout=compact&theme=tokyonight)  
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedmaher-dev&theme=tokyonight)  
+![Streak Stats](https://streak-stats.demolab.com/?user=mohamedmaher-dev&theme=tokyonight)  
 
 ---
 
