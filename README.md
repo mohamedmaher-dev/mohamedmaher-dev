@@ -48,8 +48,6 @@ Passionate about **Flutter**, **clean code**, and creating **beautiful user expe
 
 ## 🏆 Achievements  
 
-- 🥇 Winner of *XYZ Hackathon 2023* (Fake – replace with real one)  
-- 🎓 Completed *Google Flutter Bootcamp 2022* (Fake – replace with real one)  
 - ⭐ 20+ successful freelance projects with 5-star ratings  
 
 ---
