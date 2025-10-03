@@ -181,11 +181,3 @@ _"The best way to predict the future is to create it."_ - Peter Drucker
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
 </div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/mohamedmaher-dev/mohamedmaher-dev/blob/output/github-contribution-grid-snake.svg)
-
-</div>
